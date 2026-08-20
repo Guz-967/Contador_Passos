@@ -15,7 +15,7 @@ O “Contador de Passos” é uma interface gráfica que permite ao usuário cli
 
 <img width="405" height="351" alt="image" src="https://github.com/user-attachments/assets/2f60fed7-36e3-412b-8868-03d3207fefc3" />
 
-<img width="430" height="377" alt="image" src="https://github.com/user-attachments/assets/18bc2008-475c-47f2-bf2b-521acfee7821" />
+<img width="405" height="377" alt="image" src="https://github.com/user-attachments/assets/18bc2008-475c-47f2-bf2b-521acfee7821" />
 
 
 ### Como executar?
