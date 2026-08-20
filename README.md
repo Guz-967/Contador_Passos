@@ -31,5 +31,5 @@ O “Contador de Passos” é uma interface gráfica que permite ao usuário cli
 
 ## Autor
 
-Desenvolvido por Gustavo como projeto acadêmico do curso Análise e Desenvolvimento de Sistemas para aplicar conceitos e praticar programação em Java.
+Desenvolvido por Gustavo como projeto pessoal a fim de praticar a aplicar conceitos de manipulação de DOM, POO e OOO utilizando HTML, CSS e JavaScript.
 
