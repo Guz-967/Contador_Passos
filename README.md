@@ -24,8 +24,10 @@ O “Contador de Passos” é uma interface gráfica que permite ao usuário cli
 
 <img width="429" height="342" alt="image" src="https://github.com/user-attachments/assets/002eaa73-6a07-42d3-81dd-fdc0082600e2" />
   
-## Tecnologia Utilizada:
-- Java
+## Tecnologias Utilizadas:
+- HTML5
+- CSS3
+- JavaScript
 
 ## Autor
 
