@@ -15,9 +15,6 @@ O “Contador de Passos” é uma interface gráfica que permite ao usuário cli
 
 <img width="405" height="351" alt="image" src="https://github.com/user-attachments/assets/2f60fed7-36e3-412b-8868-03d3207fefc3" />
 
-<img width="405" height="377" alt="image" src="https://github.com/user-attachments/assets/18bc2008-475c-47f2-bf2b-521acfee7821" />
-
-
 ### Como executar?
 
 1. Execute o projeto
@@ -25,7 +22,8 @@ O “Contador de Passos” é uma interface gráfica que permite ao usuário cli
 3. Clique no botão "Andar"
 4. Acompanhe a quantidade de passos em tempo real
 
-<img width="430" height="377" alt="image" src="https://github.com/user-attachments/assets/18bc2008-475c-47f2-bf2b-521acfee7821" />   
+<img width="429" height="342" alt="image" src="https://github.com/user-attachments/assets/002eaa73-6a07-42d3-81dd-fdc0082600e2" />
+  
 ## Tecnologia Utilizada:
 - Java
 
